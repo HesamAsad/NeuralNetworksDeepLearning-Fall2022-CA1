@@ -4,5 +4,5 @@
 
 * Q1: McCulloch-Pitts Model
 * Q2: AdaLine and MadaLine Algorithms for Learning
-* Q3: Restricted Boltzmann Machine
-* Q4: MLP using PyTorch
+* Q3: Restricted Boltzmann Machine (Movie Recommender System)
+* Q4: MLP using PyTorch (Price Prediction)
